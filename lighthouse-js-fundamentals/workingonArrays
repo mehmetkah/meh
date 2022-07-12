@@ -1,0 +1,5 @@
+let names = [2,3,5,6];
+console.log(names);
+console.log(typeof names);
+console.log(names.length);
+console.log(names[0])
